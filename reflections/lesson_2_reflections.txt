@@ -1,3 +1,8 @@
 1.  What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repo it creates an invisible git file which will therefore keep track of all future updates made inside the repo. You don't need to do it. However, it is highly encouraged to keep track - jsut incase you make an error or a bug appears sometime in the near future.
+
+2.  How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where the files you have added and is where they will stay right before they are committed. It separates/ differentiates them from the 'untracked' files.
+
