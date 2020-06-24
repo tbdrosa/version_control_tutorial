@@ -19,9 +19,9 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
     This is a great aspect to VC because as recongized in a few examples, there are times where files will communicate between one another - this goes especailly for coding files. If you make changes that are across a series of files one would want to keep track in "one save". 
 
-How can you use the commands git log and git diff to view the history of files?
+5. How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    you can use git log --oneline to help you see the entire history of changes made to a specific directory you are working on. Additionally, with the git diff you can see the changes and differences made ebtween directories.
 
 How might using version control make you more confident to make changes that
 could break something?
