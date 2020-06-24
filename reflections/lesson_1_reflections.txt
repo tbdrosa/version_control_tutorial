@@ -30,4 +30,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I want to use Git for helping me keep track of my website. I previously was attempting to make a website but there were always bugs and I kept getting discouraged on continuing because after every change - I somehow caused a bug to make something else not work. With VC this will definitely help make my workflow much easier and stress free not having to worry about bugs.
