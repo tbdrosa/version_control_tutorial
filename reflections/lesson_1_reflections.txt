@@ -23,10 +23,10 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
     you can use git log --oneline to help you see the entire history of changes made to a specific directory you are working on. Additionally, with the git diff you can see the changes and differences made ebtween directories.
 
-How might using version control make you more confident to make changes that
+6.  How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Using VC would make me more confident because in the case that I mess something up, I am still able to go back into previous versions of my application to "checkout" and see if and when these errors were made. I can then restore these versions and fix the changes needed to fix it.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
