@@ -6,3 +6,7 @@ When you initialize a repo it creates an invisible git file which will therefore
 
 The staging area is where the files you have added and is where they will stay right before they are committed. It separates/ differentiates them from the 'untracked' files.
 
+3.  How can you use the staging area to make sure you have one commit per logical change?
+
+the staging area lists the files that have been added and are ready to be committed. If there are any files you no longer want you can run 'git status' and then remove whatever fils you do not want to commit.
+
