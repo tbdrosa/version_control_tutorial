@@ -18,3 +18,7 @@ Branches help when you want to risk a tricky addition in your application / wed 
 
 They help visualize where the branches are and how one commit might get lost if it is "unreachable". It should be a good habit to maybe draw out branches to help further visualize your project even more so.
 
+6.  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge branches it becomes one fluid branch and the commits carry over into the "master". Its represented this way to elimiate confusion since it is no longer two separete pieces.
+
