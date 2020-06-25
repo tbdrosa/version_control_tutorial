@@ -14,3 +14,7 @@ the staging area lists the files that have been added and are ready to be commit
 
 Branches help when you want to risk a tricky addition in your application / wed design. Instead of worrying about fucking up the entire project - branches allows you to start from a place (or a checkpoint) that you can return to later on if your trick does not work.
 
+5.  How do the diagrams help you visualize the branch structure?
+
+They help visualize where the branches are and how one commit might get lost if it is "unreachable". It should be a good habit to maybe draw out branches to help further visualize your project even more so.
+
