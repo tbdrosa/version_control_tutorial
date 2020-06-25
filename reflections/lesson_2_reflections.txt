@@ -10,3 +10,7 @@ The staging area is where the files you have added and is where they will stay r
 
 the staging area lists the files that have been added and are ready to be committed. If there are any files you no longer want you can run 'git status' and then remove whatever fils you do not want to commit.
 
+4.  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help when you want to risk a tricky addition in your application / wed design. Instead of worrying about fucking up the entire project - branches allows you to start from a place (or a checkpoint) that you can return to later on if your trick does not work.
+
